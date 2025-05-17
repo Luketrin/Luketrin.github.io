@@ -127,15 +127,15 @@
 
   <div class="gallery">
     <div class="polaroid">
-      <img src="foto/1000358663-01.jpeg" alt="Nós dois">
+      <img src="1000358663-01.jpeg" alt="Nós dois">
       <p>❤️</p>
     </div>
     <div class="polaroid">
-      <img src="foto/1000358664-01.jpeg" alt="Mais um momento">
+      <img src="1000358664-01.jpeg" alt="Mais um momento">
       <p>❤️</p>
     </div>
     <div class="polaroid">
-      <img src="foto/1000358665-01.jpeg" alt="Lembrança linda">
+      <img src="1000358665-01.jpeg" alt="Lembrança linda">
       <p>❤️</p>
     </div>
   </div>
@@ -143,12 +143,12 @@
   <div class="music">
     <h2>DEMO</h2>
     <audio controls>
-      <source src="músicas/Luke - LIKE THAT - DEMO.m4a" type="audio/mpeg">
+      <source src="Luke - LIKE THAT - DEMO.m4a" type="audio/mpeg">
       Seu navegador não suporta áudio.
     </audio>
     <h2>CONCEPT</h2>
     <audio controls>
-      <source src="músicas/Luke - LIKE THAT - CONCEPT.m4a" type="audio/mpeg">
+      <source src="Luke - LIKE THAT - CONCEPT.m4a" type="audio/mpeg">
       Seu navegador não suporta áudio.
     </audio>
     <h2>ACOUSTIC</h2>
