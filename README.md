@@ -127,7 +127,7 @@
 
   <div class="gallery">
     <div class="polaroid">
-      <img src="Luketrin.github.io/1000358663-01.jpeg" alt="Nós dois">
+      <img src="1000358663-01.jpeg" alt="Nós dois">
       <p>❤️</p>
     </div>
     <div class="polaroid">
