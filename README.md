@@ -90,7 +90,8 @@
                 <p>completely, fall for you, in every move</p>
                 <p>in every step, in every moon</p>
                 <p>you don't have red flag and the signal is greenlight and</p>
-                <p>i go fast, yeah, i don't care, yeah, if you pretend to hurting me, yeah, i forget</p>
+                <p>i go fast, yeah, i don't care, yeah,</p> 
+                <p>if you pretend to hurting me, yeah, i forget</p>
                 <p>so many things i did, so many times did'nt</p>
                 <p>just let you know</p>
                 <p>.</p>
