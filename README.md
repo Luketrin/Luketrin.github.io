@@ -3,10 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Feliz Dia dos Namorados</title>
+  <title>FUCK YOU</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
-  
   <style>
     body {
       margin: 0;
@@ -25,11 +24,21 @@
     }
 
     h1 {
+      font-weight: 300;
+      font-family: 'OPTICaslonFive';
       margin: 0;
       font-size: 3rem;
       color: #8b0000;
     }
 
+      h2 {
+      font-weight: 300;
+      font-family: 'OPTICaslonFive';
+      margin: 0;
+      font-size: 2rem;
+      color: black;
+    }
+    
     .lyrics {
       max-width: 700px;
       margin: 0 auto 40px;
@@ -64,7 +73,7 @@
       border-radius: 5px;
     }
 
-    .polaroid p {
+    .polaroid p
       margin-top: 10px;
       font-size: 1.1rem;
     }
@@ -80,89 +89,9 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>LIKE THAT</h1>
-  </header>
+  
 
-  <div class="lyrics">
-<p>baby, i said i love you but you let me go</p>
-                <p>so many nights falling in your arms, yeah, i don't know what i do</p>
-                <p>completely, fall for you, in every move</p>
-                <p>in every step, in every moon</p>
-                <p>you don't have red flag and the signal is greenlight and</p>
-                <p>i go fast, yeah, i don't care, yeah,</p> 
-                <p>if you pretend to hurting me, yeah, i forget</p>
-                <p>so many things i did, so many times did'nt</p>
-                <p>just let you know</p>
-                <p>.</p>
-                <p>i like when you talk like that,</p>
-                <p>you drive me crazy, baby, i never forget</p>
-                <p>that night, that light, the way you move so fast</p>
-                <p>treat me like a star, and baby i just might</p>
-                <p>let your body over me like that,</p>
-                <p>your lips, just taste so good and, yeah i bet</p>
-                <p>there's nobody cares that way, yeah i care</p>
-                <p>promess just be mine, and you don't need to cry, yeah, i love like that</p>
-                <p>.</p>
-                <p>and baby i cried but is all fault for me</p>
-                <p>.</p>
-                <p>skin on skin, i don't need a screen</p>
-                <p>i need you inside me</p>
-                <p>i know what you like, baby</p>
-                <p>just run and hide, because</p>
-                <p>i'm imperfect, just important</p>
-                <p>don't need nobody, i need you here</p>
-                <p>yes i fight for you and i go anywhere because i love you so</p>
-                <p>.</p>
-                <p>be good like that,</p>
-                <p>you drive me crazy, baby, i never forget</p>
-                <p>that night, that light, the way you move so fast</p>
-                <p>treat me like a star, and baby i just might</p>
-                <p>let your body over me like that,</p>
-                <p>your lips, just taste so good and yeah i bet</p>
-                <p>there's nobody cares that way yeah i care</p>
-                <p>promess just be mine, and you dont need to cry, yeah i love like that</p>
-                <p>i love like that</p>
-                <p>hmm, i love like that</p>
-  </div>
-
-  <div class="gallery">
-    <div class="polaroid">
-      <img src="1000358663-01.jpeg" alt="Nós dois">
-      <p>🩵</p>
-    </div>
-    <div class="polaroid">
-      <img src="1000358664-01.jpeg" alt="Mais um momento">
-      <p>🩵</p>
-    </div>
-    <div class="polaroid">
-      <img src="1000358665-01.jpeg" alt="Lembrança linda">
-      <p>🩵</p>
-    </div>
-  </div>
-
-  <div class="music">
-    <h2>DEMO</h2>
-    <audio controls>
-      <source src="Luke - LIKE THAT - DEMO.m4a" type="audio/mpeg">
-      Seu navegador não suporta áudio.
-    </audio>
-    <h2>CONCEPT</h2>
-    <audio controls>
-      <source src="Luke - LIKE THAT - CONCEPT.m4a" type="audio/mpeg">
-      Seu navegador não suporta áudio.
-    </audio>
-    <h2>ACOUSTIC</h2>
-    <audio controls>
-      <source src="Luke - LIKE THAT - ACOUSTIC.m4a" type="audio/mpeg">
-      Seu navegador não suporta áudio.
-    </audio>
-     <h2>Call It What You Want - Cover</h2>
-    <audio controls>
-      <source src="Call_It_What_You_Want.mp3" type="audio/mpeg">
-      Seu navegador não suporta áudio.
-    </audio>
-  </div>
-  <p>Luke Star - luketrinity22@gmail.com</p>
 </body>
 </html>
+
+
